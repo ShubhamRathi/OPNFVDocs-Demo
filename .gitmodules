@@ -1,0 +1,6 @@
+[submodule "docs/submodules/armband"]
+	path = docs/submodules/armband
+	url = https://github.com/ShubhamRathi/armband
+[submodule "docs/submodules/compass4nfv"]
+	path = docs/submodules/compass4nfv
+	url = https://github.com/ShubhamRathi/compass4nfv
