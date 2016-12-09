@@ -52,7 +52,7 @@ You can find project specific usage and configuration information below:
 Feature Configuration Guides
 ============================
 
-- :ref:`Armband Configuration Guide <Armband-Config>`
+- `Armband Configuration Guide <http://opnfvdocsdemo.readthedocs.io/projects/armband/en/latest/installationprocedure/index.html>`_
 - `Copper configuration guide <http://artifacts.opnfv.org/copper/colorado/2.0/docs/installationprocedure/index.html>`_
 - `Doctor configuration guide <http://artifacts.opnfv.org/doctor/colorado/2.0/docs/installationprocedure/index.html>`_
 - `IPv6 configuration guide <http://artifacts.opnfv.org/ipv6/colorado/2.0/docs/installationprocedure/index.html>`_

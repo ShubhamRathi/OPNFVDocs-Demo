@@ -59,7 +59,13 @@ support for the OPNFV Colorado release are; Apex, Compass4nfv, Fuel and Joid.
 
 The instructions for each toolchain:
 
-- `Armband Config Guide <:RTD:projects/armband/en/latest/installationprocedure/index.html>`_
+.. toctree::
+   :maxdepth: 1
+
+   ../submodules/apex/docs/installationprocedure/index
+   ../submodules/compass4nfv/docs/installationprocedure/index
+   ../submodules/fuel/docs/installationprocedure/index
+   ../submodules/joid/docs/installationprocedure/index
 
 
 OPNFV Test Frameworks
