@@ -55,7 +55,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'OPNFV'
+project = 'OPNFV Documentation'
 copyright = '2016, Open Platform for NFV'
 author = 'Open Platform for NFV'
 
