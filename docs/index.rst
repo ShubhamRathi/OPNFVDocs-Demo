@@ -37,6 +37,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - `Bottlenecks <http://opnfvdocsdemo.readthedocs.io/projects/bottlenecks/en/latest/>`_
 - `Functest <http://opnfvdocsdemo.readthedocs.io/projects/functest/en/latest/>`_
 - `Yardstick <http://opnfvdocsdemo.readthedocs.io/projects/yardstickopnfv/en/latest/>`_
+- `Vswitchperf <http://opnfvdocsdemo.readthedocs.io/projects/vswitchperf/en/latest/>`_
 
 .. Commenting the below out until we actually use it
 .. Indices and tables

@@ -14,8 +14,8 @@ Compass
 .. toctree:: 
    :maxdepth: 1 
 
-   ../submodules/compass4nfv/docs/releasenotes/index
-   ../submodules/compass4nfv/docs/installationprocedure/index
+- `Release Notes <http://opnfvdocsdemo.readthedocs.io/projects/compass4nfv/en/latest/releasenotes/index.html>`_
+- `Installation <http://opnfvdocsdemo.readthedocs.io/projects/compass4nfv/en/latest/installationprocedure/index.html>`_
 
 Fuel
 -----
@@ -25,7 +25,7 @@ Fuel
    ../submodules/fuel/docs/releasenotes/index
    ../submodules/fuel/docs/installationprocedure/index
 
-Fuel
+Joid
 -----
 .. toctree:: 
    :maxdepth: 1 
