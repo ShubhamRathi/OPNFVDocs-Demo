@@ -299,4 +299,4 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
-intersphinx_mapping = {'RTD':('http://opnfvdocsdemo.readthedocs.io/projects/', None)}
+# intersphinx_mapping = {'RTD':('http://opnfvdocsdemo.readthedocs.io/projects/', None)}
