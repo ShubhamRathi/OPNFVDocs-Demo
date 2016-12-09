@@ -35,6 +35,7 @@ Testing Documentation
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 - `Bottlenecks <http://opnfvdocsdemo.readthedocs.io/projects/bottlenecks/en/latest/>`_
+- `Functest <http://opnfvdocsdemo.readthedocs.io/projects/functest/en/latest/>`_
 
 .. Commenting the below out until we actually use it
 .. Indices and tables
