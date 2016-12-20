@@ -26,7 +26,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    :maxdepth: 1
 
    developer-guide/index
-   submodules/netvirt/docs/index
+   submodules/armband/docs/index
 
 
 Testing Documentation
