@@ -4,3 +4,6 @@
 [submodule "docs/submodules/compass4nfv"]
 	path = docs/submodules/compass4nfv
 	url = https://github.com/ShubhamRathi/compass4nfv
+[submodule "docs/submodules/doctor"]
+	path = docs/submodules/doctor
+	url = https://gerrit.opnfv.org/gerrit/doctor

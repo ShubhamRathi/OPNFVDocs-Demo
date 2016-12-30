@@ -27,6 +27,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
    developer-guide/index
    submodules/armband/docs/index
+   submodules/doctor/docs/index
 
 
 Testing Documentation
