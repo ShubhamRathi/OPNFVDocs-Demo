@@ -14,8 +14,8 @@ Compass
 .. toctree:: 
    :maxdepth: 1 
 
-- `Release Notes <http://opnfvdocsdemo.readthedocs.io/projects/compass4nfv/en/latest/releasenotes/index.html>`_
-- `Installation <http://opnfvdocsdemo.readthedocs.io/projects/compass4nfv/en/latest/installationprocedure/index.html>`_
+   ../submodules/compass4nfv/docs/releasenotes/index
+   ../submodules/compass4nfv/docs/installationprocedure/index
 
 Fuel
 -----
