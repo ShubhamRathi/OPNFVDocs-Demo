@@ -16,6 +16,7 @@
 import sys
 import os
 import sphinx_bootstrap_theme
+import subprocess
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -25,20 +26,13 @@ import sphinx_bootstrap_theme
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #needs_sphinx = '1.0'
-
+subprocess.call(["rm","-rf","*"])
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions=['sphinx.ext.autosectionlabel',]
 # Disable javasphinx generation until we have a solution to long build
 # times. readthedocs timesout after 902 seconds.
-javasphinx_available = False
-try:
-    import javasphinx
-    javasphinx_available = True
-    extensions.append('javasphinx')
-except ImportError, e:
-    pass
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
