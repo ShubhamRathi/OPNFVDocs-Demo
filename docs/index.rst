@@ -4,7 +4,7 @@
 OPNFV Documentation
 ===================
 
-Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems. Through system level integration, deployment and testing, OPNFV creates a reference NFV platform to accelerate the transformation of enterprise and service provider networks. Participation is open to anyone, whether you are an employee of a member company or just passionate about network transformation.
+Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems. Through system level integration, deployment and testing, OPNFV creates a reference NFV platform to accelerate the transformation of enterprise and service provider networks. Participation is open to anyone, whether you are an employee of a member company or just passionate about network transformation. 
 
 Release Documentation
 ----------------------
@@ -34,7 +34,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Testing Documentation
 -------------------------------------
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. This document was generated on |date| at |time|.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. This document was generated on |date| at |time|. 
 
 .. toctree::
    :maxdepth: 1
@@ -43,6 +43,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
    submodules/bottlenecks/docs/userguide/index
    submodules/yardstick/docs/userguide/index
    submodules/vswitchperf/docs/index
+   templates/index
 
 .. Commenting the below out until we actually use it
 .. Indices and tables
