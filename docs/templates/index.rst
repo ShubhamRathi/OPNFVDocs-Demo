@@ -11,5 +11,5 @@ Templates
    release/installation/index
    release/overview/index
    release/release-notes/index
-   release/scenarios/index
+   release/scenarios/scenario.name/index
    release/userguide/index
