@@ -11,12 +11,12 @@ OPNFV <Release Name>  <Project Name> User Guide
    :local:
 
 <Feature> description
-=====================
+-----------------------
 .. Describe the specific features and how it is realised in the scenario in a brief manner
 .. to ensure the user understand the context for the user guide instructions to follow.
 
 <Feature> capabilities and usage
-================================
+----------------------------------
 .. Describe the specific capabilities and usage for <XYZ> feature.
 .. Provide enough information that a user will be able to operate the feature on a deployed scenario.
 
