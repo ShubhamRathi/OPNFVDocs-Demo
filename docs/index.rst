@@ -1,4 +1,4 @@
-.. note:: This documentation is still under development. _
+.. note:: This documentation is still under development._
 
 OPNFV Documentation
 ===================
