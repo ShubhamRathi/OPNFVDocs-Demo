@@ -1,5 +1,4 @@
-.. |date| date::
-.. |time| date:: %H:%M
+.. note:: This documentation is still under development. _
 
 OPNFV Documentation
 ===================
@@ -23,7 +22,7 @@ The following content is intended for people who would like to deploy, use, or j
 Developer Documentation
 -----------------------------------
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Testing if link points to :ref:`OPNFV FUNCTEST user guide` using autosection label
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 .. toctree::
    :maxdepth: 1
@@ -34,7 +33,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Testing Documentation
 -------------------------------------
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. This document was generated on |date| at |time|. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 .. toctree::
    :maxdepth: 1
