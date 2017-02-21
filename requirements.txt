@@ -1,5 +1,0 @@
-tox
-sphinx>=1.4.8
-sphinx_bootstrap_theme>=0.4.11
-
-

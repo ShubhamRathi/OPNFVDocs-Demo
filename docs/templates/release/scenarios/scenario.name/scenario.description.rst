@@ -2,9 +2,9 @@
 .. http://creativecommons.org/licenses/by/4.0
 .. (c) <optionally add copywriters name>
 
-======================================================================
-OPNFV <Release Name>  <Scenario Name> 
-======================================================================
+=========================
+OPNFV <Scenario Name>
+=========================
 
 This document provides scenario level details for <RELEASE> of <COMPONENT>.
 
@@ -37,6 +37,6 @@ Limitations, Issues and Workarounds
 References
 -----------------
 
-For more information on the OPNFV Danuve release, please visit
+For more information on the OPNFV Danube release, please visit
 http://www.opnfv.org/danube
 

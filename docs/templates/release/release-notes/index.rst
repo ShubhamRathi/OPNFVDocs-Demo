@@ -2,7 +2,7 @@
 .. http://creativecommons.org/licenses/by/4.0
 
 ==================================================
-OPNFV <Release Name> <Project Name> Release Notes
+OPNFV <Project Name> Release Notes
 ==================================================
 
 .. toctree::

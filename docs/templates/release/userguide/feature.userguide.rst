@@ -2,21 +2,21 @@
 .. http://creativecommons.org/licenses/by/4.0
 .. (c) <optionally add copywriters name>
 
-================================================================
-OPNFV <Release Name>  <Project Name> User Guide
-================================================================
+===================================
+OPNFV <Project Name> User Guide
+===================================
 
 .. contents::
    :depth: 3
    :local:
 
 <Feature> description
------------------------
+------------------------
 .. Describe the specific features and how it is realised in the scenario in a brief manner
 .. to ensure the user understand the context for the user guide instructions to follow.
 
 <Feature> capabilities and usage
-----------------------------------
+------------------------------------
 .. Describe the specific capabilities and usage for <XYZ> feature.
 .. Provide enough information that a user will be able to operate the feature on a deployed scenario.
 

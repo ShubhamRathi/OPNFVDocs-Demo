@@ -6,6 +6,9 @@
 OPNFV Overview
 ===============
 
+Introduction
+============
+
 Network Functions Virtualization (NFV) is transforming the networking industry via
 software-defined infrastructures and open source is the proven method for developing
 software quickly for commercial products and services that can move markets.
@@ -40,6 +43,7 @@ topics (such as the MANO components and applications themselves), OPNFV aims to 
 NFV services by increasing performance and power efficiency improving reliability,
 availability and serviceability, and delivering comprehensive platform instrumentation.
 
+
 OPNFV Platform Architecture
 ===========================
 
@@ -49,7 +53,7 @@ platform including common hardware requirements, software architecture, MANO and
 
 OPNFV Platform Overview Diagram
 
-.. image:: ../_static/images/opnfvplatformgraphic.png
+.. image:: ../images/opnfvplatformgraphic.png
    :alt: Overview infographic of the opnfv platform and projects.
 
 
@@ -107,7 +111,8 @@ an NFV domain, the OPNFV community consumes a sub-set of OpenStack projects wher
 composition may vary depending on the installer and scenario.
 
 For details on the scenarios available in OPNFV and the specific composition of components
-refer to the :ref:`opnfv-install` instructions.
+refer to the OPNFV installation instruction:
+http://artifacts.opnfv.org/opnfvdocs/colorado/2.0/docs/installationprocedure/index.html
 
 -----------------
 Operating Systems
@@ -174,6 +179,7 @@ This server-either physical or virtual-is first installed with the installation 
 that then installs OpenStack and other components on the controller nodes and compute nodes.
 See the `OPNFV User Guide`_ for more details.
 
+
 The OPNFV Testing Ecosystem
 ===========================
 
@@ -187,7 +193,7 @@ platform validation. This required the integration of a variety of testing frame
 systems, real time and automated analysis of results, storage and publication of key facts for
 each run as shown in the following diagram.
 
-.. image:: ../_static/images/OPNFV_testing_group.png
+.. image:: ../images/OPNFV_testing_group.png
   :alt: Overview infographic of the Colorado OPNFV testing Ecosystem
 
 Release Verification
@@ -217,7 +223,8 @@ Functest
 
 Functest provides a functional testing framework incorporating a number of test suites
 and test cases that test and verify OPNFV platform functionality.
-The scope of Functest and relevant test cases can be found in :ref:`OPNFV FUNCTEST user guide`.
+The scope of Functest and relevant test cases can be found in its
+`user guide <http://artifacts.opnfv.org/functest/colorado/2.0/docs/userguide/index.html>`_.
 
 Functest provides both feature project and component test suite integration, leveraging
 OpenStack and SDN controllers testing frameworks to verify the key components of the OPNFV

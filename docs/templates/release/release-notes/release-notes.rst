@@ -2,7 +2,7 @@
 .. http://creativecommons.org/licenses/by/4.0
 
 ======================================================================
-OPNFV <Release Name>  <Project Name> Release Notes
+OPNFV <Project Name> Release Notes
 ======================================================================
 
 This document provides the release notes for <RELEASE> of <COMPONENT>.
@@ -228,6 +228,6 @@ References
 
 <EXAMPLE>:
 
-For more information on the OPNFV Arno release, please see:
+For more information on the OPNFV Danube release, please see:
 
-http://wiki.opnfv.org/release/arno
+http://opnfv.org/danube

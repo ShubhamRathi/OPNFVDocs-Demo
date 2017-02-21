@@ -3,7 +3,7 @@
 .. (c) <optionally add copywriters name>
 
 =====================
-<feature> User Guide
+<Feature> User Guide
 =====================
 
 .. The feature user guide should provide an OPNFV user with enough information to
@@ -16,4 +16,8 @@
    :maxdepth: 1
 
    feature.userguide
+.. The feature.userguide.rst file should contain the text for this document
+.. additional documents can be added to this directory and added in the right order
+.. to this file as a list below.
+
 

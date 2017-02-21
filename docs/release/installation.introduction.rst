@@ -1,11 +1,13 @@
-.. _opnfv-install:
 .. This work is licensed under a Creative Commons Attribution 4.0 International License.
 .. http://creativecommons.org/licenses/by/4.0
-   .. (c) Sofia Wallin Ericsson AB
+.. (c) Sofia Wallin Ericsson AB
 
-==================
+====================
 OPNFV Installation
-==================
+====================
+
+Abstract
+========
 
 The following document provides an overview of the instructions required for the installation
 of the Colorado release of OPNFV.
@@ -14,6 +16,7 @@ The Colorado release can be installed using a variety of technologies provided b
 integration projects participating in OPNFV: Apex, Compass4Nfv, Fuel and JOID.
 Each installer provides the ability to install a common OPNFV platform as well as integrating
 additional features delivered through a variety of scenarios by the OPNFV community.
+
 
 Introduction
 ============
@@ -28,6 +31,7 @@ configuring your target scenario.
 An OPNFV installation requires either a physical, or virtual, infrastructure environment as defined
 in the `Pharos specification <http://artifacts.opnfv.org/pharos/colorado/2.0/docs/specification/index.html>`_.
 When configuring a physical infrastructure it is strongly advised to follow the Pharos configuration guidelines.
+
 
 Scenarios
 =========
@@ -50,6 +54,7 @@ description documents provided:
 - LXD container hypervisor `os-nosdn-lxd-noha <http://artifacts.opnfv.org/joid/colorado/2.0/docs/scenarios_os-nosdn-lxd-noha/index.html>`_
 - High Availability LXD container hypervisor `os-nosdn-lxd-ha <http://artifacts.opnfv.org/joid/colorado/2.0/docs/scenarios_os-nosdn-lxd-ha/index.html>`_
 
+
 Installation Procedure
 ======================
 
@@ -57,15 +62,12 @@ Detailed step by step instructions for working with an installation toolchain an
 the required scenario are provided by each installation project.  The four projects providing installation
 support for the OPNFV Colorado release are; Apex, Compass4nfv, Fuel and Joid.
 
-The instructions for each toolchain:
+The instructions for each toolchain can be found in these links:
 
-.. toctree::
-   :maxdepth: 1
-
-   ../submodules/apex/docs/installationprocedure/index
-   ../submodules/compass4nfv/docs/installationprocedure/index
-   ../submodules/fuel/docs/installationprocedure/index
-   ../submodules/joid/docs/installationprocedure/index
+- `Apex installation instruction <http://artifacts.opnfv.org/apex/colorado/2.0/docs/installationprocedure/index.html>`_
+- `Compass4nfv installation instruction <http://artifacts.opnfv.org/compass4nfv/colorado/2.0/docs/installationprocedure/index.html>`_
+- `Fuel installation instruction <http://artifacts.opnfv.org/fuel/colorado/2.0/docs/installationprocedure/index.html>`_
+- `Joid installation instruction <http://artifacts.opnfv.org/joid/colorado/2.0/docs/installationprocedure/index.html>`_
 
 
 OPNFV Test Frameworks

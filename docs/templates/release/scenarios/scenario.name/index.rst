@@ -12,5 +12,5 @@
 .. toctree::
    :maxdepth: 1
 
-   ./scenario.description.rst
+   scenario.description
 

@@ -1,19 +1,18 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-#
 import sphinx_bootstrap_theme
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
 # needs_sphinx = '1.0'
+needs_sphinx = '1.3'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autosectionlabel', ]
+extensions = ['sphinxcontrib.httpdomain', 'sphinx.ext.autodoc',
+              'sphinx.ext.viewcode', 'sphinx.ext.napoleon']
 # Disable javasphinx generation until we have a solution to long build
 # times. readthedocs timesout after 902 seconds.
 
@@ -32,8 +31,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'OPNFV Documentation'
-copyright = '2016, Open Platform for NFV'
+project = 'Documentation'
+copyright = '2017, OPNFV. Licensed under CC BY 4.0'
 author = 'Open Platform for NFV'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -118,12 +117,12 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '_static/opnfv_small.png'
+html_logo = '_static/opnfv-logo.png'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = 'favicon.ico'
+html_favicon = '_static/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
